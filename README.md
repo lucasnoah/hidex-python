@@ -1,7 +1,8 @@
 hidex-python
 ============
 
-A python module that apadts the HIDEX high dimensional explorer.
+A python module that apadts the HIDEX high dimensional explorer.  Hidex is a  a family word
+co-occurrence model built by cyrus.  You can find his work here: https://github.com/cyrus/high-dimensional-explorer/
 
 This module places the files in the directory structure necisary for HIDEX to funciton, then runs Popen commands to execute hidex.  
 
